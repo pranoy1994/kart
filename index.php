@@ -60,7 +60,7 @@
           <div class="content-wrapper">
 
             <div class="container">
-              <div class="row" class="top: 47px;position: relative;">
+              <div class="row" style="top: 100px;position: relative;">
                 
                 <div class="col-md-6">
                   <header>
@@ -69,7 +69,7 @@
                   </header>
                
            
-      <img src="myislamic-LOGO.png" style="width: 500px; height: 500px;bottom: 146px;    position: relative;">
+      <img src="myislamic-LOGO.png" style="width: 500px; height: 500px;bottom: 146px; left: -77px;   position: relative;">
                    
 
                     <!-- Ajax message -->
@@ -134,5 +134,5 @@ if($_GET['s']){
   if($_GET['s'] == "ok")?><script>alert("Details Submitted Sucessfully")</script> <?php
   }
 ?>
-<!-- Mirrored from www.octarinethemes.com/demos/definity/pages/coming-soon-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 03 Apr 2017 13:01:40 GMT -->
+
 </html>
